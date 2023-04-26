@@ -24,7 +24,7 @@
  
 <div align="center">
   
-<img src="GITHUB/Stormtroopocat - GitHub Octodex.png">
+<img src="GITHUB/Stormtroopocat - GitHubOctodex.png">
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DarkZeus}/count.svg" /></p> 
